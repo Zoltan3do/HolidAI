@@ -1,0 +1,46 @@
+{
+    "destinations": [
+      {
+        "id": "867d",
+        "title": "Castello di Inverness",
+        "description": "Visita il Castello di Inverness, simbolo della città, con la sua splendida vista sul fiume Ness. La struttura attuale risale al 1836, ma il sito ha ospitato castelli fin dall'11° secolo.",
+        "date": "2024-05-23 10:00",
+        "cost": "Gratuito per i giardini, £8 per il museo"
+      },
+      {
+        "id": "ffe5",
+        "title": "Loch Ness & Urquhart Castle",
+        "description": "Goditi una giornata esplorando il misterioso Loch Ness. Non perdere Urquhart Castle sulle sue sponde per una dose di storia e possibilità di avvistare Nessie.",
+        "date": "2024-05-24 09:00",
+        "cost": "£20 (incluse crociera e ingresso al castello)"
+      },
+      {
+        "id": "f5ae",
+        "title": "Culloden Battlefield",
+        "description": "Visita il Culloden Battlefield, sito della battaglia finale della rivolta giacobita nel 1746. Il centro visitatori offre esposizioni interattive che raccontano la battaglia e i suoi effetti sulla storia scozzese.",
+        "date": "2024-05-26 14:00",
+        "cost": "£11"
+      },
+      {
+        "id": "4c65",
+        "title": "Loch Ness e Urquhart Castle",
+        "description": "Partecipa a una crociera sul Loch Ness, visita il misterioso Urquhart Castle, e tieni gli occhi aperti per avvistare il leggendario mostro del Loch Ness. Questa esperienza combina storia, paesaggi mozzafiato e avventura.",
+        "date": "2024-05-16 09:30",
+        "cost": "£23 per persona per la crociera e l'ingresso al castello"
+      },
+      {
+        "id": "4cb9",
+        "title": "Cena tradizionale Napoletana",
+        "description": "Goditi una cena in uno dei ristoranti tradizionali di Napoli, assaggiando la vera pizza napoletana e altri piatti locali.",
+        "date": "2024-05-25 19:30",
+        "cost": "€30.00 a persona"
+      },
+      {
+        "id": "d1a1",
+        "title": "Pompei",
+        "description": "Visita alle rovine dell'antica città di Pompei, una città sepolta dall'eruzione del Vesuvio nel 79 d.C., offre uno sguardo unico sulla vita quotidiana degli antichi Romani.",
+        "date": "2024-05-14 09:00",
+        "cost": "€16.00"
+      }
+    ]
+  }
